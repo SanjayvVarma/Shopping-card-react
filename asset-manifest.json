@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shopping-card-react/static/css/main.64ae715d.css",
+    "main.js": "/Shopping-card-react/static/js/main.efab063a.js",
+    "static/js/453.098ccc83.chunk.js": "/Shopping-card-react/static/js/453.098ccc83.chunk.js",
+    "index.html": "/Shopping-card-react/index.html",
+    "main.64ae715d.css.map": "/Shopping-card-react/static/css/main.64ae715d.css.map",
+    "main.efab063a.js.map": "/Shopping-card-react/static/js/main.efab063a.js.map",
+    "453.098ccc83.chunk.js.map": "/Shopping-card-react/static/js/453.098ccc83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64ae715d.css",
+    "static/js/main.efab063a.js"
+  ]
+}
