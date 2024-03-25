@@ -1,0 +1,27 @@
+.cart-container {
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    margin: 2rem;
+    text-align: center;
+    
+}
+
+.namelistP{
+    display: flex;
+    gap: 1rem;
+}
+
+.noCardAdd{
+    text-align: center;
+    padding: 0 1rem;
+    border: 1px solid greenyellow;
+}
+.namelistP, .totalprice{
+    padding: 0 1rem;
+    margin-right: 2rem;
+    margin-top: 1rem;
+    border: 2px solid red;
+    font-size: 20px;
+    background-color: gray;
+    color: #fff;
+}
