@@ -1,36 +1,3 @@
-// import React from 'react';
-// import './style.css'
-
-// const ProductList = ({ products, addToCart, removeFromCart, cart }) => {
-
-//   const getProductQuantity = (productId) => {
-//     const cartItem = cart.find(item => item.product.id === productId);
-//     return cartItem ? cartItem.quantity : 0;
-//   };
-
-//   return (
-//     <div className="product-list-container">
-//       <h2>Products</h2>
-//       <ul className="product-list">
-//         {products.map((product) => (
-//           <li key={product.id}>
-//             <span>{product.name} - {product.price}</span>
-//             <div>
-//               <button onClick={() => addToCart(product)}>+</button>
-//               <span className="quantity">{getProductQuantity(product.id)}</span>
-//               <button onClick={() => removeFromCart(product)}>-</button>
-//             </div>
-//           </li>
-//         ))}
-//       </ul>
-//     </div>
-//   );
-// };
-
-// export default ProductList;
-
-
-// ProductList.js
 import React from 'react';
 import './style.css';
 
